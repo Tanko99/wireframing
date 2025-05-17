@@ -152,6 +152,64 @@ Developers use wireframes to understand element positioning, logic flow, and com
 - A developer can see from the wireframe that the “Cancel Booking” button must appear only after a booking is confirmed.
 - It informs both front-end logic and conditional rendering.
 
+## Wireframing in Practice
+
+## 🎓 Real-World Scenario: Student Portal Website
+📘 Context:
+A university IT department planned to redesign its student portal to improve usability for key functions:
+- Course registration
+- Fee payment
+- Result viewing
+- Academic records access
+
+Before development, the design team created low-fidelity wireframes using Figma and conducted usability tests with a sample of students.
+## 🔍 Usability Issues Identified During Wireframing
+## 1. Overloaded Homepage
+- Problem: The homepage wireframe showed too many links and widgets (e.g., notifications, account balance, exam dates, GPA).
+- Student Feedback: "It’s hard to know where to start. I just want to register for my courses."
+## 2. Confusing Course Registration Flow
+Problem: The registration process spanned multiple screens with no progress indicator.
+
+Student Feedback: "I didn’t know if my course selections were saved or submitted."
+## 3. Poor Fee Payment Visibility
+- Problem: The fee payment section was buried under several menus and didn’t clearly show the breakdown.
+- Student Feedback: "I need to know what I’m paying for before clicking 'Pay Now'."
+## 🛠️ Solutions Implemented Based on Wireframe Testing
+## ✅ Simplified Dashboard
+- A personalized dashboard was designed showing:
+- Quick links: “Register Courses,” “View Results,” “Pay Fees”
+
+Summary cards: Current GPA, Balance Due, and Semester Status
+
+## ✅ Step-by-Step Course Registration
+ The flow was restructured into a 3-step process:
+- Select Courses → Review Timetable → Submit & Confirm
+- A progress bar was added to guide users.
+
+## ✅ Transparent Fee Section
+A dedicated “My Fees” page was created with:
+- Itemized breakdown (e.g., tuition, library, tech fees)
+- Downloadable invoice
+Secure payment gateway embedded directly
+- 📈 Impact on the Final Product
+- 🧭 Improved navigation clarity: Students completed tasks 35% faster in testing.
+- 📉 Fewer help desk requests: Fee and registration inquiries dropped significantly.
+- 📊 Higher portal usage: More students used the system regularly to check results and pay fees.
+
+**🧾 Conclusion**: The Role of Wireframing in a Student Portal
+ Wireframing allowed the team to:
+- Visualize the student experience early
+- Catch user frustration points before development
+- Design flows that match real student expectations
+🎯 Wireframing ensured the final portal was not just functional—but user-friendly, efficient, and clear for students handling critical academic tasks.
+
+
+
+
+
+
+
+
 
 
 
