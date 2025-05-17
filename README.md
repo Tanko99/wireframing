@@ -94,6 +94,69 @@ A designed screen with:
 - A styled header with logo
 - Dropdowns for date selection
 - A map view and propertiy cards with images, ratings, and prices
+---
+## Wireframing Tools
+## ✨ What Are Wireframing Tools?
+Wireframing tools are digital platforms used to design the layout, structure, and functionality of a website or application interface before development begins. They help designers and developers visualize:
+- Page structure
+- User flow
+- Content placement
+- Interactive components
+
+These tools are essential for:
+- Planning interfaces
+- Communicating design ideas
+- Collaborating with teams and stakeholders
+## ⭐ Figma: A Recommended Wireframing Tool
+## 🔍 Overview:
+Figma is a powerful cloud-based design and collaboration tool used for UI/UX design, wireframing, prototyping, and more. It's accessible through a browser, meaning no installation is needed.
+## 🛠️ Key Features for Wireframing:
+- ✅ Real-time Collaboration: Multiple people can design and comment on the same file at once.
+- ✅ Component System: Create reusable design elements (like buttons and form fields).
+- ✅ Built-in Prototyping: Link wireframes to simulate user flows and interactions.
+- ✅ Customizable Frames and Grids: Great for maintaining consistent layouts.
+- ✅ Pre-made UI Kits and Templates: Speeds up wireframing and design work.
+- ✅ Version History: Track changes and revert to earlier designs anytime.
+- ✅ Export Options: Download as PNG, SVG, or PDF—perfect for documentation and GitHub repos.
+## 🎯 Why Figma is Ideal for Wireframing
+- Beginner-friendly yet powerful for advanced users
+- Accessible on any device with a browser
+- Excellent for both low-fidelity and high-fidelity wireframes
+- Widely used in the industry—great for building portfolio projects
+---
+## Benefits of Wireframing in Software Development.
+## ✅ 1. Clarifies Requirements Early
+Wireframes turn abstract ideas into visual form, allowing stakeholders to see and refine the user interface before development begins.
+## 🔍 Example:
+In a Booking Management System, a wireframe of the booking form can clarify whether the user needs to enter guest details, payment info, or view room availability—before a single line of code is written.
+## ✅ 2. Guides the Design Process
+Wireframes provide a blueprint for UI/UX designers and front-end developers. They define layout structure, content placement, and functionality—ensuring design decisions are purposeful and user-centered.
+## 🔍 Example:
+If a wireframe shows that the “Search Rooms” input is prominently placed above the fold, designers will know to prioritize it for visibility and usability.
+## ✅ 3. Improves Team Communication
+Wireframes serve as a shared visual reference for the entire team—designers, developers, testers, and clients. This eliminates ambiguity and keeps everyone aligned.
+## 🔍 Example:
+- A developer seeing a wireframe of a booking confirmation screen understands what data needs to be displayed.
+- A tester can use the same wireframe to verify if key elements (like booking ID or total price) are present and correctly placed.
+## ✅ 4. Saves Time and Reduces Rework
+By identifying issues early in the visual planning phase, wireframes help avoid costly redesigns later in development.
+## 🔍 Example:
+If a wireframe reveals that the payment flow is too complicated, it can be simplified before coding begins—saving both time and effort.
+## ✅ 5. Supports User-Centered Design
+Wireframes help teams focus on user needs by simulating how users will interact with the system. This leads to better usability and a smoother experience.
+## 🔍 Example:
+A low-fidelity wireframe of a multi-step booking flow allows teams to test navigation logic (e.g., next, back, confirm) with users before building anything.
+## ✅ 6. Acts as a Reference for Developers
+Developers use wireframes to understand element positioning, logic flow, and component functionality—especially when paired with use cases and requirements.
+## 🔍 Example:
+- A developer can see from the wireframe that the “Cancel Booking” button must appear only after a booking is confirmed.
+- It informs both front-end logic and conditional rendering.
+
+
+
+
+
+
 
 
 
